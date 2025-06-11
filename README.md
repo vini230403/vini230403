@@ -6,7 +6,7 @@
 🧠 Apaixonado por tecnologia, UI/UX e soluções com IA  
 📚 Sempre aprendendo e criando novos projetos <br>
 🌐 Portfólio Pessoal: [Portfólio Pessoal](https://vini230403.github.io/newportfolio/) <br>
-💼 LinkedIn: [LinkedIn](www.linkedin.com/in/vinícius-mateus-melo-3b053624a)  
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-mateus-melo-3b053624a/)  
 📫 E-mail: vini2003.melo@gmail.com
 
 ## 🧰 Tech Stack
